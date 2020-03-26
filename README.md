@@ -1,5 +1,12 @@
 ## Chest X Ray images for COVID19
 
+# Description
+1. covid19.csv contains the list of images along with the
+findings
+2. The corresponding image can be found in the
+covid19_chest_xray folder
+
+
 # Notes
 All images are of patients positive on COVID-19
 
